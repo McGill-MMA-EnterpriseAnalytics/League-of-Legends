@@ -1,2 +1,8 @@
 # League-of-Legends
-Team7240-3_Wenya_Hao_Xinran_Vivi_Alisa_Seunghyun
+Team7240-3:
+- Wenya Cai
+- Hao Duong
+- Xinran Yu
+- Vivi Li
+- Alisa Liu
+- Seunghyun Park
