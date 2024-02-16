@@ -1,5 +1,5 @@
 # League-of-Legends
-Team7240-3:
+Team 7240-3:
 - Wenya Cai
 - Hao Duong
 - Xinran Yu
