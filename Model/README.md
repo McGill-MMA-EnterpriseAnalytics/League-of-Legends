@@ -17,14 +17,15 @@
     - Light GBM
     - XGBoost
     - GradientBoostingClassifier
+- Hyper-parameter tuning: grid search for all the models tested.
 - Model selection: based on the accuracy score, we select GradientBoostingClassifier as our best performed model.
 
 ## Step 4: Casual inference 
 - Feature selection:
     - Even after feature selection during modelling, it is still better to keep all the relevant features for analyzing casual inference.
-    - Some simple feature selection but the same feature engineering method as done in modelling part
+    - Some simple feature selection but the same feature engineering method as done in modelling part.
 - Correlation and association graph:
-    - Determine the treatment based on the highest correlation
+    - Determine the treatment based on the highest correlation.
 - Building model:
     - Even though GradientBoostingClassifier is the highest accuracy score from our modelling, causal inference requires more than just predictive accuracy; it involves estimating causal effects and making inferences about how changes in one variable affect another.
     - Still want to consider the accuracy score we got before, but also models like logistic regression are often preferred for causal inference because their coefficients directly indicate the effect of each feature on the outcome.
