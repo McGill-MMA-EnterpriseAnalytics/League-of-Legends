@@ -2,7 +2,7 @@
 - Drop columns that are highly correlated
 
 ## Step 2: Feature engineering
-- Add relevant columns based on the existing columns
+- Add relevant columns based on the existing columns (EXPLAINATION HERE ??)
     - blueHelpful:
     - redHelpful: 
     - blueJunglePercentage:
