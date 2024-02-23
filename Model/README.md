@@ -42,3 +42,8 @@
 - Feature importance:
     - Apply the base model and learner we selected.
     - EXPLAIN MORE HERE: ???
+ 
+- Result:
+    - The estimated average treatment effect (ATE) for all learners is positive, indicating that increasing the "blueGoldDiff" (blue team gold difference) increases the likelihood of the "blueWin" result.
+    - The confidence intervals do not include 0, implying that these effects are statistically significant. This means that the correlation between "blueGoldDiff" and "blueWin" is unlikely to be due to chance.
+    - Business implementation: Teams could use this information to focus on methods to boost their gold advantage over the other side ("blueGoldDiff"). For example, they may prioritise goals such as gaining more towers, neutral objectives (such as dragons or barons), or farming efficiently to gain more gold, knowing that doing so boosts their chances of winning ("blueWin").
