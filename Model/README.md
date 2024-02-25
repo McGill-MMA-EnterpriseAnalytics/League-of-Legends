@@ -18,7 +18,7 @@
     - XGBoost
     - GradientBoostingClassifier
 - Hyper-parameter tuning: grid search for all the models tested.
-- Model selection: based on the accuracy score, we select GradientBoostingClassifier as our best performed model.
+- Model selection: based on the accuracy score, we select Logistic Regression as our best performed model.
 
 ## Step 4: Casual inference 
 - Feature selection:
