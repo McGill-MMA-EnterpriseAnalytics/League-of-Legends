@@ -1,4 +1,4 @@
-## Objective: 
+## Objective
 Demonstrate the value and applicability of predictive analytics in competitive Esports, leveraging a unique dataset to predict the outcome of a game within the first 10 minutes
 
 ## Modelling
